@@ -19,6 +19,6 @@ It operates on two types of inputs provided -
 <img src="Circuit_Diagram.png">
 
 ## Bot Images
-<img src="Bot_image2.jpg" height=800 width=600><img src="Bot_image3.jpg" height=600 width=800>
+<img src="Bot_image2.jpg" height=200 width=150><img src="Bot_image3.jpg" height=150 width=200>
 
 ## 
