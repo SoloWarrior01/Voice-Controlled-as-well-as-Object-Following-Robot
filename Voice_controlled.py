@@ -1,5 +1,6 @@
 import RPi.GPIO as GPIO          
 from time import sleep
+from integrate_bluetooth import bluetooth_call
 
 m1_in1 = 24
 m1_in2 = 23
@@ -72,7 +73,8 @@ def turn_left():
     
 while(1):
 
-    x = input("enter - ")
+    # x = input("enter - ")
+    x = bluetooth_call()
     
     if x=='s':
         print("stop")
